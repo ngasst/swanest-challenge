@@ -1,0 +1,9 @@
+{
+  "name": "swanest-challenge",
+  "version": "0.0.1",
+  "description": "Final question to swanest challenge",
+  "main": "index.js",
+  "repository": "https://github.com/ngasst/swanest-challenge.git",
+  "author": "Gaston Ndanyuzwe <ndanyuzwe@hotmail.com>",
+  "license": "MIT"
+}
