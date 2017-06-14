@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/ngasst/swanest-challenge.git",
   "author": "Gaston Ndanyuzwe <ndanyuzwe@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
