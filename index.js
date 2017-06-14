@@ -23,7 +23,7 @@ if (args.length < 1) {
         .map(l => l.replace(/[\r\n]/g, ''))
         .filter(l => l.length > 0);
 
-        //order lines by execution time
+        //order lines by execution order
         let newlines = lines.map((l, i) => {
             if (l.charAt(0) === 'c') return {l, i};
             else if (l.charAt(0) === 's') {
